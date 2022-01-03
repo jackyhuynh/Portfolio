@@ -51,7 +51,7 @@ my README.md format was retrieved from
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-* Any acknowledgments go here
+* Designed by [Ryan Fitzgerald](https://github.com/ryanfitzgerald)
 
 
 
