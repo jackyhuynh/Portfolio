@@ -1,6 +1,6 @@
 # My Portfolio
 
-My Simple Portfolio that I make in 2019
+My Simple Portfolio that I made in 2019
 
 ## Technology
 
