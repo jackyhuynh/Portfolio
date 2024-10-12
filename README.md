@@ -1,12 +1,9 @@
-# Template for Portfolio
+# My Portfolio
 
-## [CHECK IT OUT](https://jackyhuynh.github.io/template_professional_portfolio/)
+My Simple Portfolio that I make in 2019
 
 ## Technology
-List of technology
-- Python 
-- Object Oriented Design
-- PyCharm IDE
-- Web development
+
+JavaScript, Simple Design
 
 
